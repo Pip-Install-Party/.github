@@ -9,7 +9,7 @@ The C++ interpreter is comprised of 6 components. Each component builds off of t
 2️⃣ - [Tokenization](https://github.com/Pip-Install-Party/Tokenization)  
 3️⃣ - [Recursive Descent Parser](https://github.com/Pip-Install-Party/Recursive-Descent-Parser)  
 4️⃣ - [Symbol Table](https://github.com/Pip-Install-Party/Symbol-Table)  
-5️⃣ - [Abstract Syntax Tree](https://github.com/Pip-Install-Party/Abstract-Syntax-Tree) (Not Yet Functional) 
+5️⃣ - [Abstract Syntax Tree](https://github.com/Pip-Install-Party/Abstract-Syntax-Tree) (Not Yet Functional)  
 6️⃣ - [Interpreter](https://github.com/Pip-Install-Party/Interpreter) (Not Yet Functional)  
 
 ## Contributors
