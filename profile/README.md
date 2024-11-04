@@ -3,7 +3,7 @@
 This organization was established to facilitate the development of a C++ interpreter for CS460 (Programming Languages) at Sonoma State University. 
 
 ## Components
-The C++ interpreter is comprised of 6 components. Each component builds off of the last.
+The C++ interpreter was built in 5 stages. Each stage builds off of the last.
 
 1️⃣ - [Ignoring Comments](https://github.com/Pip-Install-Party/Ignoring-Comments)  
 2️⃣ - [Tokenization](https://github.com/Pip-Install-Party/Tokenization)  
