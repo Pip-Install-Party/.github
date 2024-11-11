@@ -13,7 +13,15 @@ The C++ interpreter was built in 6 stages. Each stage builds off of the last.
 6️⃣ - [Interpreter](https://github.com/Pip-Install-Party/Interpreter) (Not Yet Functional)  
 
 ## Contributors
+<a href="https://github.com/Pip-Install-Party/Interpreter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pip-Install-Party/Interpreter" alt="contrib.rocks image" />
+</a>
 
-| <img src="https://avatars.githubusercontent.com/u/67528639?v=4" width="100" height="100" alt="Blake Marshall"> | <img src="https://avatars.githubusercontent.com/u/107743355?v=4" width="100" height="100" alt="Brandon Robinson"> | <img src="https://avatars.githubusercontent.com/u/142474297?v=4" width="100" height="100" alt="Holden Ea"> | <img src="https://avatars.githubusercontent.com/u/129122237?v=4" width="100" height="100" alt="Jacob Sellers"> | <img src="https://avatars.githubusercontent.com/u/171610804?v=4" width="100" height="100" alt="Rolando Yax"> |
-|:-------------------------------------------------:|:--------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
-| [**Blake Marshall**](https://github.com/officialblake)                                | [**Brandon Robinson**](https://github.com/brandonuscg)                               | [**Holden Ea**](https://github.com/holdenkea)                                  | [**Jacob Sellers**](https://github.com/JacobS999)                                | [**Rolando Yax**](https://github.com/Ryax3)                                |
+
+### Connect With Us
+
+Blake Marshall - [Github](https://github.com/officialblake) | [LinkedIn](https://www.linkedin.com/in/blakemarshalll)  
+Brandon Robison - [Github](https://github.com/brandonuscg) | [LinkedIn](https://www.linkedin.com/in/brandon-robinson-uscg/)  
+Holden Ea - [Github](https://github.com/holdenkea) | [LinkedIn](https://www.linkedin.com/in/holden-ea-28a535208/)  
+Jacob Sellers - [Github](https://github.com/JacobS999) | [LinkedIn](https://www.linkedin.com/in/jacob-sellers-83840826a)  
+Rolando Yax - [Github](https://github.com/Ryax3) | [LinkedIn](https://www.linkedin.com/in/rolandoyax/) 
