@@ -16,6 +16,8 @@ The interpreter was constructed through a modular design, composed of several ke
    
 5.	[Abstract Syntax Tree (AST) Generation](https://github.com/Pip-Install-Party/Abstract-Syntax-Tree): Constructs a tree representation of the program that encapsulates its logical structure and relationships, serving as the foundation for execution.
 
+6.	[Interpreter](https://github.com/Pip-Install-Party/Interpreter): Constructs the full interpreter using a combination of the prior componets.
+
 Each component builds on the outputs of the previous stage, concluding in a fully functional interpreter capable of processing complex inputs and producing correct results. This layered approach highlights the importance of modularity and abstraction in software engineering and programming language design.
 
 ## Contributors
