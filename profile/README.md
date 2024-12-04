@@ -10,7 +10,7 @@ The C++ interpreter was built in 6 stages. Each stage builds off of the last.
 3️⃣ - [Recursive Descent Parser](https://github.com/Pip-Install-Party/Recursive-Descent-Parser)  
 4️⃣ - [Symbol Table](https://github.com/Pip-Install-Party/Symbol-Table)  
 5️⃣ - [Abstract Syntax Tree](https://github.com/Pip-Install-Party/Abstract-Syntax-Tree)  
-6️⃣ - [Interpreter](https://github.com/Pip-Install-Party/Interpreter) (Not Yet Functional)  
+6️⃣ - [Interpreter](https://github.com/Pip-Install-Party/Interpreter) 
 
 ## Contributors
 <a href="https://github.com/Pip-Install-Party/Interpreter/graphs/contributors">
